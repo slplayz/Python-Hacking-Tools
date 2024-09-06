@@ -1,0 +1,4 @@
+- Hi, I’m @slplayz
+- I’m interested in coding and hacking
+- I’m currently learning hacking
+- Pronouns: Him/He
