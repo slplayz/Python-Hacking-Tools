@@ -1,0 +1,3 @@
+- python packet_sniffer.py -i <interface> -c <count>
+
+- e.g (python packet_sniffer.py -i eth0 -c 10)
